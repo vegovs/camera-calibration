@@ -1,0 +1,3 @@
+/home/vegovs/Documents/camera-calibration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vegovs/Documents/camera-calibration/cmake-build-debug/CMakeFiles/camera-calibration.dir
+/home/vegovs/Documents/camera-calibration/cmake-build-debug/CMakeFiles/edit_cache.dir
